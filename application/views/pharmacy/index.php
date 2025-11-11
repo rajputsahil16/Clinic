@@ -160,7 +160,7 @@
 
             swal.fire({
                 title: 'Exporting File...',
-                html: 'This may take a few minutes',
+                html: 'This may take a few minutes', 
                 allowOutsideClick: false,
                 showConfirmButton: false,
                 timer: 2000,
